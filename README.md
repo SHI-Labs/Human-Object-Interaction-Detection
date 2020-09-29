@@ -6,7 +6,7 @@ Our survey & examination paper[[ArXiv](https://arxiv.org/abs/2009.12950)]
 @article{bergstrom20human,
   title={Human-Object Interaction Detection: A Quick Survey and Examination of Methods},
   author={Bergstrom, Trevor and Shi, Humphrey},
-  journal={The 1st International Workshop on Human-Centric Multimedia Analysis, at ACM Multimedia Conference 2020},
+  journal={The 1st International Workshop on Human-Centric Multimedia Analysis at ACM Multimedia Conference},
   year={2020}
 }
 ```
