@@ -38,4 +38,6 @@ To be updated soon.
 * (Modeling Mutual Context of Object and Human Pose in Human-Object Interaction Activities) - Yao, Bangpeng and Fei-Fei, Li [[paper](http://vision.stanford.edu/pdf/YaoFei-Fei_CVPR2010b.pdf)]
 To be updated soon.
 ## Code
-To be updated soon.
+Code can be found here for now: https://github.com/trevorbergstrom/HOI-Toolkit
+
+Will be added to this repo soon.
